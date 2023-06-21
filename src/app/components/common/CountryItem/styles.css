@@ -1,0 +1,13 @@
+.country-item {
+    width: 200px;
+    margin-bottom: 42px;
+}
+
+.country-item:hover {
+    opacity: 0.6;
+}
+
+.container {
+    padding: 14px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,28 @@
+@media (max-width: 800px) {
+  .align-center {
+    justify-content: center;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 300px;
+  }
+  .left {
+    justify-content: left;
+  }
+  img {
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 510px) {
+  .flex-wrap {
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+}
+
+.space-around-space-around {
+    justify-content: space-around;
+}

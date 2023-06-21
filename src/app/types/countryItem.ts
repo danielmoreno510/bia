@@ -1,0 +1,4 @@
+interface CountryItem {
+    country: Country;
+  }
+  
